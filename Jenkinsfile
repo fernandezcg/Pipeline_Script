@@ -1,6 +1,6 @@
 pipeline {
     //agent none
-	agent Any
+	agent any
     stages {
 	
 	stage('Non-Parallel Stage') {
